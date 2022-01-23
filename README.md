@@ -4,6 +4,7 @@ Interlingua is an international auxiliary language.
 
 ## Links
 * https://www.interlingua.com
+* https://twitter.com/i/lists/1485231888306479111
 
 ### Interlingua
 * https://www.interlingua.com/film/mini-curso/
@@ -17,6 +18,7 @@ Interlingua is an international auxiliary language.
 
 ### Deutsch
 * https://glosbe.com/de/ia
+* https://www.interlingua.com/de/curso/
 * https://www.interlingua.com/archivos/de/Du%20hast%20das%20Wort%20-%20Interlingua.pdf
 * https://www.interlingua.com/archivos/de/Interlingua%20fuer%20die%20Reise.pdf
 * http://dj3uc.darc.de/ia-curso.html
