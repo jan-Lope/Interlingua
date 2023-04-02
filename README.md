@@ -20,9 +20,12 @@ Interlingua is an international auxiliary language.
 * App [Wörterbuch Interlingua-Deutsch](https://play.google.com/store/apps/details?id=renegrothmann.iade&gl=DE)
 * [Glosbe Wörterbuch Deutsch - Interlingua](https://glosbe.com/de/ia)
 
-
 ### Anglese
 * App [English to Interlingua](https://play.google.com/store/apps/details?id=renegrothmann.iaenglish)
+
+## Translator
+* [Online Interlingua-English Translator](https://interlingua-translator.vercel.app/)
+
 
 
 
