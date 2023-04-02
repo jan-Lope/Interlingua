@@ -23,12 +23,17 @@ Interlingua is an international auxiliary language.
 ### Anglese
 * App [English to Interlingua](https://play.google.com/store/apps/details?id=renegrothmann.iaenglish)
 
+
 ## Translator
 * [Online Interlingua-English Translator](https://interlingua-translator.vercel.app/)
 
 
-
-
-## Diverses
+## Alteres
 * [Ressources re interlingua](https://rudhar.com/lingtics/intrlnga/resurses.htm)
-* https://www.mylanguageexchange.com/Learn_gmn/Interlingua.asp
+* [Wikipedia in interlingua](https://ia.m.wikipedia.org/wiki/Pagina_principal)
+* [Poemas e pensatas - Litteratura original in Interlingua](https://poemasepensatas.blogspot.com)
+* [Marcus Scriptor](https://m.youtube.com/channel/UCWRbiStTf3aAJDkU0KGVrGQ)
+* Orlophe: [Youtube](Ohttps://m.youtube.com/@orlophe/videos) | [Twitter](https://twitter.com/Orlophe)
+
+
+
