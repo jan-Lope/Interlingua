@@ -4,7 +4,7 @@ Interlingua is an international auxiliary language.
 
 ## Cursos
 ### Germano - Interlingua
-* Android-App "AnkiDroid" | [AnkiWeb](https://ankiweb.net/) | [Deutsch-Interlinuga](https://ankiweb.net/shared/info/10108193)
+* Android-App "AnkiDroid" | [AnkiWeb](https://ankiweb.net/) | [Deutsch-Interlingua](https://ankiweb.net/shared/info/10108193)
 * [Interlingua-Kurs für Deutschsprachige](http://dj3uc.darc.de/ia-curso.html)
 
 ### Anglese - Interlingua
