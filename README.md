@@ -23,6 +23,11 @@ Interlingua is an international auxiliary language.
 ### Anglese
 * App [English to Interlingua](https://play.google.com/store/apps/details?id=renegrothmann.iaenglish)
 
+## Communication
+* Telegram: Interlingua Comenciantes!
+* Telegram: Interlingua
+* WhatsApp: Lerngruppe Interlingua
+
 
 ## Translator
 * [Online Interlingua-English Translator](https://interlingua-translator.vercel.app/)
@@ -33,7 +38,7 @@ Interlingua is an international auxiliary language.
 * [Wikipedia in interlingua](https://ia.m.wikipedia.org/wiki/Pagina_principal)
 * [Poemas e pensatas - Litteratura original in Interlingua](https://poemasepensatas.blogspot.com)
 * [Marcus Scriptor](https://m.youtube.com/channel/UCWRbiStTf3aAJDkU0KGVrGQ)
-* Orlophe: [Youtube](Ohttps://m.youtube.com/@orlophe/videos) | [Twitter](https://twitter.com/Orlophe)
+* Orlophe: [Youtube](https://m.youtube.com/@orlophe/videos) | [Twitter](https://twitter.com/Orlophe)
 
 
 
