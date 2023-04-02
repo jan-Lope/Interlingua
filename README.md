@@ -30,7 +30,7 @@ Interlingua is an international auxiliary language.
 * [Zoom ID: 624 0439 2937](https://zoom.us/j/62404392937) Occurre le prime venerdi de cate mense (20:00 a 21:30). 
 
 ## Translator
-* [Online Interlingua-English Translator](https://interlingua-translator.vercel.app/)
+* [Online Interlingua-English Translator](https://interlingua-translator.vercel.app/) ;-)
 
 
 ## Alteres
