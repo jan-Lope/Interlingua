@@ -8,6 +8,7 @@ Interlingua is an international auxiliary language.
 
 ### Germano - Interlingua
 * App [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&gl=DE) | [AnkiWeb](https://ankiweb.net/) | [Deutsch-Interlingua](https://ankiweb.net/shared/info/10108193)
+* [Curso de interlingua pro comenciantes germanophone](https://www.interlingua.com/de/curso/)
 * [Interlingua-Kurs für Deutschsprachige](http://dj3uc.darc.de/ia-curso.html)
 * Memrise: [Interlingua für Deutschsprecher](https://app.memrise.com/course/1714447/interlingua-fur-deutschsprecher/) (mit Sound)
 * Memrise: [Interlingua für Anfänger](https://app.memrise.com/course/106022/interlingua-fur-anfanger/)
@@ -56,3 +57,5 @@ Interlingua is an international auxiliary language.
 
 
 
+-- 
+https://jan-lope.github.io
