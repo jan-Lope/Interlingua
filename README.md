@@ -35,7 +35,7 @@ Interlingua is an international auxiliary language.
 * [Zoom ID: 624 0439 2937](https://zoom.us/j/62404392937) Occurre le prime venerdi de cate mense (20:00 a 21:30). 
 
 ## Conferentia International 
-* Le conferentia international es planate in Portugal ab le 30 de julio al 6 de augusto 2023.
+* Le conferentia international es planate in Portugal(??) ab le 30 de julio al 6 de augusto 2023(??).
 
 
 ## Translator
