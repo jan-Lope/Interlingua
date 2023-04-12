@@ -5,6 +5,8 @@ Interlingua is an international auxiliary language.
 ## Cursos
 ### Interlingua
 * [Mini-curso: le grammatica de interlingua in 10 minutas](https://www.interlingua.com/film/mini-curso/)
+* [Interlingua pro omnes](https://www.interlingua.com/archivos/Interlingua%20pro%20omnes.pdf)
+
 
 ### Germano - Interlingua
 * App [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&gl=DE) | [AnkiWeb](https://ankiweb.net/) | [Deutsch-Interlingua](https://ankiweb.net/shared/info/10108193)
