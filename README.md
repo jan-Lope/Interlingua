@@ -2,24 +2,43 @@
 Interlingua is an international auxiliary language.
 * https://www.interlingua.com
 
-## Cursos
-### Interlingua
-* [Mini-curso: le grammatica de interlingua in 10 minutas](https://www.interlingua.com/film/mini-curso/)
-* [Interlingua pro omnes](https://www.interlingua.com/archivos/Interlingua%20pro%20omnes.pdf)
+## Mi Ideas
+
+### Nivellos de linguas artificial
+
+Io pensa que il es plure nivellos de linguas artificial.
+Iste nivellos depende de numeros de active parlatores, le nivello de parlatores, le numero de bon inseniantes e numeros de bon textos.
+
+#### 1. Nivello
+Le lingua es incognite. Forsan solmente poco personas discute re iste lingua. Un utile application de iste lingua non es possibile. Il non es bon inseniantes es bon textos.
+Le plus linguas artificial ha iste nivello.
+
+#### 2. Nivello
+Centenas a milles amatores discute re le correcte application de iste lingua. Ma un utile application de iste lingua non es possibile. Il non es bon inseniantes es bon textos.
+Un exemplo le "lingua" toki pona ha iste nivello.
+
+#### 3. Nivello
+Milles amatores discute re le avantages de iste lingua. On crea organisationes pro diffunder le lingua. Ma iste organisationes occupar se de ipse. Le causa es: Il non es assatis bon inseniantes e il non es un strategia pro diffunder le lingua.
+Il ha alicun bon textos ma illo non es assatis. Le numeros de bon parlatores non es assatis. On parla re iste lingua ma non in iste lingua. Conversationes re themas quotidian non es usual.
+Interlingua ha iste nivello.
+
+#### 4. Nivello
+Centenas de milles personas parla iste lingua. On comencia applicar iste lingua. On parla re themas quotidian tamben. Il ha multe organisationes pro practicar iste lingua. Le numeros de bon textos e bon inseniantes ascende. Le lingua ha un longe tradition.
+Io pensa que solmente Esperanto ha iste nivello.
+
+#### 5. Nivello
+Le lingua es un normal lingua. Il ha assatis bon textos e bon inseniantes. On non parla re le necessitate de organisationes. Iste organisationes liquide se. On pote trovar assatis partners pro practicar iste lingua. Il crea dialectos de iste lingua.
+Io pensa que no lingua artificial essera iste nivello.
+
+
+
+## Ligamines
+
 
 
 ### Germano - Interlingua
 * App [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&gl=DE) | [AnkiWeb](https://ankiweb.net/) | [Deutsch-Interlingua](https://ankiweb.net/shared/info/10108193)
-* [Curso de interlingua pro comenciantes germanophone](https://www.interlingua.com/de/curso/)
-* [Interlingua-Kurs für Deutschsprachige](http://dj3uc.darc.de/ia-curso.html)
-* Memrise: [Interlingua für Deutschsprecher](https://app.memrise.com/course/1714447/interlingua-fur-deutschsprecher/) (mit Sound)
-* Memrise: [Interlingua für Anfänger](https://app.memrise.com/course/106022/interlingua-fur-anfanger/)
-* Memrise: [Interlingua für Fortgeschrittene](https://app.memrise.com/course/5997666/interlingua-fur-fortgeschrittene/)
-* Memrise: [Interlingua - Deutsch](https://app.memrise.com/course/884750/interlingua-deutsch/)
 
-### Anglese - Interlingua
-* Memrise: [Interlingua pro comenciantes](https://app.memrise.com/course/249172/interlingua-pro-comenciantes/)
-* Memrise: [Interlingua - Instrumento Moderne de Communication](https://app.memrise.com/course/262533/interlingua-instrumento-moderne-de-communication/)
 
 ## Dictionarios
 ### Germano
@@ -31,14 +50,7 @@ Interlingua is an international auxiliary language.
 * App [English to Interlingua](https://play.google.com/store/apps/details?id=renegrothmann.iaenglish)
 
 ## Communication
-* Telegram: Interlingua Comenciantes!
-* Telegram: Interlingua
-* WhatsApp: Lerngruppe Interlingua
-* [Zoom ID: 624 0439 2937](https://zoom.us/j/62404392937) Occurre le prime venerdi de cate mense (20:00 a 21:30). 
-
-## Conferentia International 
-* Le conferentia international es planate in Portugal(??) ab le 30 de julio al 6 de augusto 2023(??).
-
+Le canales de Interlingua in Telegram e WhatsApp non es bon pro communicar in Interlingua. Ille es chaotic e le membros misce Interlingua con altere linguas. Io non trovava canales pro communica Interlingua.
 
 ## Translator
 ### Germano
