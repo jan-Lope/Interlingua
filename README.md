@@ -27,42 +27,42 @@ Centenas de milles personas parla iste lingua. On comencia applicar iste lingua.
 Io pensa que solmente Esperanto ha iste nivello.
 
 #### 5. Nivello
-Le lingua es un normal lingua. Il ha assatis bon textos e bon inseniantes. On non parla re le necessitate de organisationes. Iste organisationes liquide se. On pote trovar assatis partners pro practicar iste lingua. Il crea dialectos de iste lingua.
+Le lingua es un normal lingua. Il ha assatis bon textos e bon inseniantes. On non parla re le necessitate de organisationes. Iste organisationes liquide se. On pote trovar assatis partners pro practicar iste lingua. Il crea dialectos de iste lingua. On pote usar iste lingua in hoteles a aeroportos in pro le minus un pais.
 Io pensa que no lingua artificial essera iste nivello.
 
 
 
 ## Ligamines
 
+### Communication
+Le canales de Interlingua in Telegram e WhatsApp non es bon pro communicar in Interlingua. Ille es chaotic e le membros misce Interlingua con altere linguas. Io non trovava bon canales pro communica Interlingua.
 
 
-### Germano - Interlingua
+### Applications
+
+#### Germano - Interlingua 
 * App [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&gl=DE) | [AnkiWeb](https://ankiweb.net/) | [Deutsch-Interlingua](https://ankiweb.net/shared/info/10108193)
 
-
-## Dictionarios
-### Germano
+#### Germano
 * App [Wörterbuch Interlingua-Deutsch](https://play.google.com/store/apps/details?id=renegrothmann.iade&gl=DE)
 * [Glosbe Wörterbuch Deutsch - Interlingua](https://glosbe.com/de/ia)
 * [Compulsar tredece dictionarios de interlingua](https://rudhar.com/cgi-bin/cgi-grep.cgi)
 
-### Anglese
+#### Anglese
 * App [English to Interlingua](https://play.google.com/store/apps/details?id=renegrothmann.iaenglish)
 
-## Communication
-Le canales de Interlingua in Telegram e WhatsApp non es bon pro communicar in Interlingua. Ille es chaotic e le membros misce Interlingua con altere linguas. Io non trovava canales pro communica Interlingua.
 
-## Translator
-### Germano
+### Translator
+#### Germano
 * https://www.stars21.com/translator/interlingua/german/
 
-### Anglese
+#### Anglese
 * https://interlingua-translator.vercel.app/
 * https://www.interlinguatranslate.org/dashboard/docs/pokus5.html
 * https://www.stars21.com/translator/interlingua/
 
 
-## Alteres
+### Alteres
 * [Ressources re interlingua](https://rudhar.com/lingtics/intrlnga/resurses.htm)
 * [Wikipedia in interlingua](https://ia.m.wikipedia.org/wiki/Pagina_principal)
 * [Poemas e pensatas - Litteratura original in Interlingua](https://poemasepensatas.blogspot.com)
